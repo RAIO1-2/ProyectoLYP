@@ -1,0 +1,31 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+*~
+
+# Archivos de entorno virtual (si usas venv)
+env/
+venv/
+.venv/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos JSON con datos si deseas ignorarlos (solo si es intencional)
+# data/tareas.json
+
+# Archivos de pruebas
+.pytest_cache/
+.cache/
+coverage.xml
+htmlcov/
+
+# Archivos de VSCode (si usas este editor)
+.vscode/

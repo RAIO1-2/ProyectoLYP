@@ -1,0 +1,35 @@
+[
+    {
+        "titulo": "Hacer tarea de estructuras",
+        "descripcion": "Terminar el punto 3 de la tarea",
+        "categoria": {
+            "nombre": "Universidad",
+            "color": "gris"
+        },
+        "estado": "completada",
+        "fecha_inicio": "2025-06-22",
+        "fecha_fin": "2025-06-22"
+    },
+    {
+        "titulo": "Comprar",
+        "descripcion": "Ir a la tienda a comprar un regalo para mamá",
+        "categoria": {
+            "nombre": "Personal",
+            "color": "gris"
+        },
+        "estado": "en progreso",
+        "fecha_inicio": "2025-06-20",
+        "fecha_fin": "2025-06-22"
+    },
+    {
+        "titulo": "Comprar pan",
+        "descripcion": "En el supermercado",
+        "categoria": {
+            "nombre": "Personal",
+            "color": "gris"
+        },
+        "estado": "en proseso",
+        "fecha_inicio": "2025-06-22",
+        "fecha_fin": "2025-09-22"
+    }
+]
